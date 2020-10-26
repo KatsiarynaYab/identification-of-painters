@@ -15,4 +15,3 @@ __Maximum accuracy obtained in this way - 64%__
 * TensorFlow 2.2.0
 * Keras 2.4.3
 * NumPy 1.18
-* 
