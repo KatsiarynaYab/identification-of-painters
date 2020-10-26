@@ -7,7 +7,7 @@ A trial attempt was made with a simple convolutional network consisting of two c
 __Maximum accuracy obtained in this way - 34%__
 
 ## Second try
-A second attempt was made with a network Resnet50 - convolutional neural network consisting of 50 layers with preloaded ImageNet weights.
+A second attempt was made with a network Resnet50 - convolutional neural network consisting of 50 layers with preloaded ImageNet weights.<p/>
 __Maximum accuracy obtained in this way - 64%__
 
 ## Technologies used:
